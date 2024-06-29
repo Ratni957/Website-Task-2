@@ -1,0 +1,45 @@
+.view {
+   background-color: rgb(233, 231, 231);
+   padding :10px 10px;
+   margin: 40px 10px;
+   height: 50%;
+   overflow:scroll;
+}
+.heighlight{
+   background-color:rgb(169, 159, 159);
+}
+ 
+.text{
+   background-color:rgb(50, 149, 50)
+}
+.new{
+   background-color:rgb(198, 192, 192);
+   
+}
+.head{
+   padding: 50px 10px;
+   background-color:white;
+   border-bottom: 1px  rgb(231, 229, 229) solid;
+   border-top: 1px  rgb(231, 229, 229) solid;
+  height: 20px;
+}
+.image{
+   border: 1px gray solid;
+   padding: 10px 10px;
+   height: 195px;
+   background-color:rgb(246, 230, 230)
+}
+li{
+   color:red;
+  
+}
+span{
+   color:black;
+}
+.col-mid-7{
+ margin: 40px 10px;
+}
+.next{
+   background-color:rgb(243, 239, 239);
+   padding: 20px ;
+}
